@@ -3,6 +3,7 @@
 #include <vector>
 #include <math.h>
 
+// Jan 1st 2025: 1422. Maximum Score After Splitting a String
 
 using std::vector;
 using std::string;
